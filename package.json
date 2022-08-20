@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "http://angelagola-ko.github.io/photo-port",
+  "homepage": "http://angelagola-ko.github.io/Photo-port/",
   "private": true,
   "dependencies": {
     "@testing-library/user-event": "^12.8.3",
